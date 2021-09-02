@@ -1,0 +1,11 @@
+[package]
+name = "win32_color_picker"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+windows = "0.19.0"
+json = "0.12.4"
+
+[build-dependencies]
+windows = "0.19.0"
